@@ -69,6 +69,7 @@ form .btn-enviar input:hover {
 /* ESTILO DO CABEÇALHO */
 header {
     padding: 40px 4%;
+    padding-top: 0;
 }
 
 header >.interface {
@@ -269,6 +270,25 @@ nav ul li a:hover{
 /* ESTILO PÁGINA DE INFORMAÇÕES */
 #info-section{
 color: #fff;
+}
+#info-section h2{
+    color: #fff;
+    font-size: 30px;
+    text-align: left;
+}
+#info-section h2 span{
+color: #00ff08;
+}
+#info-section p{
+    text-align: left;
+}
+#info-section h1 span{
+    color: #00ff08;
+    }
+#info-section h1{
+        color: #fff;
+        font-size: 30px;
+        text-align: left;
 }
 /* ESTILO DO RODAPÉ */
 
